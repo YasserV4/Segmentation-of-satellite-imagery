@@ -1,2 +1,2 @@
 # Segmentation-of-satellite-imagery
-U-net model |
+U-net model .
